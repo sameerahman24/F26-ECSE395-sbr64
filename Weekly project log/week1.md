@@ -1,0 +1,4 @@
+# Week 1 
+
+(8/28) I met up with my teammates Ben and Brian in the second class of ECSE395. The first class was just an introduction to the roadmap and the course outcomes so we did not have the teams ready yet. Professor set up the teams using a CATME survery where he found out when our times matched and paired us out. We then ranked out the projects we deemed cool on the second day and got one of our top rated project **(How to keep my cat entertained)** which we ranked. I also had to make an introduction video talking about myself, my academics and my hobbies.  Afterwards, I drafted the stakeholder email which I had to draft twice because the first one got rejected. The second time we had to add another timeslot from the weekday in case the stakeholder has family obligations during the week.
+
