@@ -1,9 +1,9 @@
 #include <Arduino.h>
 
-// sbr64: define the built-in LED pin pasted from Lab 2's blink code
+// sbr64: define the built in LED pin pasted from Lab 2's blink code
 #define LED_PIN 13
 
-// Put your touch sensor pin assignment here
+// sbr64: put touch sensor pin assignment here
 const int sensorPin = A0;
 
 void setup() {

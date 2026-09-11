@@ -1,4 +1,4 @@
-/*
+
 #include <Arduino.h>
 
 //Put your potentiometer pin assignment here
@@ -14,4 +14,3 @@ void loop() {
 
   delay(50);
 }
-*/

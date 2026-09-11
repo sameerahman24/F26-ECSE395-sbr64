@@ -1,4 +1,4 @@
-/*
+
 #include <Arduino.h>
 
 // function prototype
@@ -35,4 +35,4 @@ float voltage(float analogvalue){
     voltage = (analogvalue * 3.3) / 4095.0;
     return voltage;
 }
-*/
+
