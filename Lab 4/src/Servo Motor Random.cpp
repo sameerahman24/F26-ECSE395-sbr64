@@ -4,7 +4,7 @@
 
 // Define the servo and the pin it is connected to, what is your servo pin?
 Servo myServo;
-const int servoPin = 0;
+const int servoPin = A0; //sbr64 servo signal wire is on A0
 
 // variable for random angle
 int randomAngle;
@@ -26,11 +26,11 @@ void setup() {
 
 void loop() {
     //  --- SECTION 1: Make a Random Angle Between 0 to 180 ---
-    // randomAngle = ?; // random(A,B); returns a random value between A and B
+    randomAngle = random(0, 181); //sbr64 picks a random angle from 0 to 180, it's 181 because random() never picks the top number // random(A,B); returns a random value between A and B
 
     // ---SECTION 2: Map Pulse Width with Angle
-    // pulseWidth = map(?, ?, ?, ?, ?, ?) // from Servo Motor.cpp, what did you learn from using map function?
+    pulseWidth = map(randomAngle, 0, 180, minPulseWidth, maxPulseWidth); //sbr64 turns the random angle into a pulse width, same as Servo Motor.cpp // from Servo Motor.cpp, what did you learn from using map function?
     myServo.writeMicroseconds(pulseWidth); // writing pulse width to servo
 
-    delay(1000); // change delay to your own preference
+    delay(random(500, 2000)); //sbr64 waits a random time between 0.5 and 2 seconds before the next move // change delay to your own preference
 }
