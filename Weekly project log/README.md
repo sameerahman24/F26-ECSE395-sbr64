@@ -10,3 +10,4 @@ This folder is a weekly project log and accountability record for my ECSE 395 se
 | [Week 4](./week4.md)  | Made and presented slides for project background, affinity clustering, personas, and needs statement; house layout mockup |
 | [Week 5](./week5.md)  | Group brainstorming, concepts, and system architecture; concept review meeting with Ms. Cina |
 | [Week 6](./week6.md)  | Concept slides and visuals, stakeholder feedback, concept selection, Gantt chart, final proposed concept |
+| [Week 7](./week7.md)  | System architecture and prototype plan (unknowns, assumptions, risks, prototype strategy, iteration plan); started cardboard prototype 1 and electronics for prototype 2 |
