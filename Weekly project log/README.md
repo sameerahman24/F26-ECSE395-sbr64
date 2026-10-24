@@ -11,4 +11,5 @@ This folder is a weekly project log and accountability record for my ECSE 395 se
 | [Week 5](./week5.md)  | Group brainstorming, concepts, and system architecture; concept review meeting with Ms. Cina |
 | [Week 6](./week6.md)  | Concept slides and visuals, stakeholder feedback, concept selection, Gantt chart, final proposed concept |
 | [Week 7](./week7.md)  | System architecture and prototype plan (unknowns, assumptions, risks, prototype strategy, iteration plan); started cardboard prototype 1 and electronics for prototype 2 |
-| [Week 8](./week8.md)  | Built and coded the prototype 2 circuit (ESP32, PIR, servo, TT motor, play-time button)verification and validation plan (protocol, tracing matrix); prototype stage 3 design review check-in |
+| [Week 8](./week8.md)  | Built and coded the prototype 2 circuit (ESP32, PIR, servo, TT motor, play-time button); verification and validation plan (protocol, tracing matrix); prototype stage 3 design review check-in |
+| [Week 9](./week9.md)  | Midterm presentation slides (charts and graphs); fixed prototype 2 code; moved prototype 2 to a smaller breadboard to fit the enclosure; prototype 3 3D printed designs |
