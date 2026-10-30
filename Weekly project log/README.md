@@ -13,3 +13,4 @@ This folder is a weekly project log and accountability record for my ECSE 395 se
 | [Week 7](./week7.md)  | System architecture and prototype plan (unknowns, assumptions, risks, prototype strategy, iteration plan); started cardboard prototype 1 and electronics for prototype 2 |
 | [Week 8](./week8.md)  | Built and coded the prototype 2 circuit (ESP32, PIR, servo, TT motor, play-time button); verification and validation plan (protocol, tracing matrix); prototype stage 3 design review check-in |
 | [Week 9](./week9.md)  | Midterm presentation slides (charts and graphs); fixed prototype 2 code; moved prototype 2 to a smaller breadboard to fit the enclosure; prototype 3 3D printed designs |
+| [Week 10](./week10.md) | Presented the midterm presentation; prototypes file; finished the enclosure and started sealing the electronics inside it |
