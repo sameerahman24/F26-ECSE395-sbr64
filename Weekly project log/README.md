@@ -14,3 +14,4 @@ This folder is a weekly project log and accountability record for my ECSE 395 se
 | [Week 8](./week8.md)  | Built and coded the prototype 2 circuit (ESP32, PIR, servo, TT motor, play-time button); verification and validation plan (protocol, tracing matrix); prototype stage 3 design review check-in |
 | [Week 9](./week9.md)  | Midterm presentation slides (charts and graphs); fixed prototype 2 code; moved prototype 2 to a smaller breadboard to fit the enclosure; prototype 3 3D printed designs |
 | [Week 10](./week10.md) | Presented the midterm presentation; prototypes file; finished the enclosure and started sealing the electronics inside it |
+| [Week 11](./week11.md) | Edited the code so the TT motor rotates further and logs each activation; linked the demo video in the MVP document and Risks and Unknowns; bought wands and string for verification and validation; wrote the MVP description; assembled and taped shut the full enclosure |
