@@ -16,3 +16,4 @@ This folder is a weekly project log and accountability record for my ECSE 395 se
 | [Week 10](./week10.md) | Presented the midterm presentation; prototypes file; finished the enclosure and started sealing the electronics inside it |
 | [Week 11](./week11.md) | Edited the code so the TT motor rotates further and logs each activation; linked the demo video in the MVP document and Risks and Unknowns; bought wands and string for verification and validation; wrote the MVP description; assembled and taped shut the full enclosure |
 | [Week 12](./week12.md) | Wire management inside the toy after the servo kept disconnecting wires; redid the cat toy tentacles to make them floppier |
+| [Week 13](./week13.md) | Emailed Ms. Cina and set up a Zoom meeting to show the MVP and current product and get her feedback; Ben moderated and took notes; split the final report sections across the team |
